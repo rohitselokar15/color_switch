@@ -1,1 +1,1 @@
-Changing the background color using JavaScript
+# Changing the background color using JavaScript
