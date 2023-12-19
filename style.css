@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 20px 100px;
+    /* border: 2px solid red; */
+}
+
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    width: 50%;
+    height: 50vh;
+     margin-left: 45vh;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.color-switcher{
+    text-align: right;
+}
+
+#white{
+    background-color: white;
+}
+
+#black{
+background-color: black;
+}
+
+#green{
+background-color: #30f730;
+}
+
+#aqua{
+background-color: #00ffff;
+}
+
+.btn{
+    border: 2px solid red;
+    display: inline-block;
+    height: 4px;
+    padding: 8px;
+    cursor: pointer;
+}
